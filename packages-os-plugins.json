@@ -1,7 +1,7 @@
 {
     "packages": [
         {
-            "package": "ohif-viewer-XNAT-plugin",
+            "package": "ohif-viewer-xnat-plugin",
             "repository": {
                 "host": "bitbucket",
                 "url": "https://bitbucket.org/icrimaginginformatics/ohif-viewer-XNAT-plugin"
